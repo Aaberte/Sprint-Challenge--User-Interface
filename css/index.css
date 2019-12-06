@@ -164,6 +164,22 @@ footer nav a {
 .links a {
     border: 1px solid blue;
     text-decoration: none;
-    color: grey;
-        
+    color: grey;    
+    
+}
+.logo {
+    border: 1px solid blue;
+  }
+
+.links {
+    border: 1px solid blue;
+}
+
+
+.header-image img {
+    border: 1px solid blue;
+	width: 100%;
+    object-fit: fill;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
