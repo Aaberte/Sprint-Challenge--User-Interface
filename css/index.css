@@ -151,7 +151,7 @@ footer nav a {
 
 .container  {  
     margin: 0 auto;
-    max-width: 70%
+    max-width: 80%
 }
 
 nav {
@@ -244,35 +244,44 @@ nav {
 
 .about-top {
     border-bottom: 1px dotted black;
+    padding: 2%;
     
  }
 
  .firstrow {
-    
+     padding: 2% 0%;    
      display: flex;
      justify-content: space-between;
      
  }
 
  .firstrow .strategy, .howWork {
-     
-     
+     width: 47%;         
  }
 
+ .strategy {
+     border-bottom: 1px dotted black;
+     padding-bottom: 2%;
+ }
+
+ .howWork {
+    border-bottom: 1px dotted black;
+    padding-bottom: 2%;
+}
+
  .secondrow {
-    
+     padding: 2%;
      display: flex;
      justify-content: space-between;
      
  }
 
  .secondrow .strategy, .howWork {
-     
-     
+     width: 47%; 
  }
 
 .together {
-    border-top: 1px dotted grey;
+    padding: 2%;
    
 }
 
