@@ -144,3 +144,29 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+
+/* my code starts here */
+
+.container {
+    border: 1px solid blue;
+    margin: 0;
+    width: 100%
+}
+
+.header-section {
+    border: 1px solid blue;
+    display: flex;
+ }
+
+ .links {
+     display:flex;
+     justify-content: space-evenly;
+ }
+
+.links a {
+    border: 1px solid blue;
+    text-decoration: none;
+    color: grey;
+    justify-content: space-evenly;
+}
