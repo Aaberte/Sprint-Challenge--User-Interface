@@ -240,15 +240,37 @@ footer nav a {
  }
 
 .about-top {
+    border-bottom: 1px dotted black;
     padding: 2%;
  }
 
  .firstrow {
+    
      display: flex;
+     justify-content: space-between;
+     padding-top: 2%;
+ }
+
+ .firstrow .strategy, .howWork {
+     width: 48%;
+     
  }
 
  .secondrow {
+    
      display: flex;
+     justify-content: space-between;
+     padding-top: 2%;
+     padding-bottom: 2%;
  }
 
+ .secondrow .strategy, .howWork {
+     width: 48%;
+     
+ }
+
+.together {
+    border-top: 1px dotted grey;
+    padding: 3% 0%;
+}
 
