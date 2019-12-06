@@ -237,6 +237,18 @@ footer nav a {
 .header-image #about-page {
     width: 100%;
     object-fit: fill;
-    padding-top: 5%;
-    padding-bottom: 5%;
-}
+ }
+
+.about-top {
+    padding: 2%;
+ }
+
+ .firstrow {
+     display: flex;
+ }
+
+ .secondrow {
+     display: flex;
+ }
+
+
