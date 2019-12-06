@@ -183,3 +183,53 @@ footer nav a {
     padding-top: 5%;
     padding-bottom: 5%;
 }
+
+#teal {
+    background-color: teal;
+    color: white;
+}
+
+#gold {
+    background-color: gold;
+    color: white;
+}
+
+#cadetblue {
+    background-color: cadetblue;
+    color: white;
+}
+
+#coral {
+    background-color: coral;
+    color: white;
+}
+
+#crimson {
+    background-color: crimson;
+    color: white;
+}
+
+#forestgreen {
+    background-color: forestgreen;
+    color: white;
+}
+
+#darkorchid {
+    background-color: darkorchid;
+    color: white;
+}
+
+#hotpink {
+    background-color: hotpink;
+    color: white;
+}
+
+#indigo {
+    background-color: indigo;
+    color: white;
+}
+
+#dodgerblue {
+    background-color: dodgerblue;
+    color: white;
+}
