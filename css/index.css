@@ -143,4 +143,157 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+    text-align: center;
 }
+
+
+/* my code starts here */
+
+.container  {  
+    margin: 0 auto;
+    max-width: 80%
+}
+
+nav {
+	display: flex;
+	padding-bottom:25px;
+}
+
+.links {
+	
+	display:flex;
+	width:70%;
+	justify-content:space-evenly;
+	align-items:center;
+}
+
+.links a {
+	color: black;
+	text-decoration:none;
+	width:25%;
+	text-align:center;		
+}
+
+.logo {
+
+	width:25%;
+	text-align:center;
+}
+
+.header-image img {
+    
+	width: 100%;
+    object-fit: fill;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+#teal {
+    background-color: teal;
+    color: white;
+}
+
+#gold {
+    background-color: gold;
+    color: white;
+}
+
+#cadetblue {
+    background-color: cadetblue;
+    color: white;
+}
+
+#coral {
+    background-color: coral;
+    color: white;
+}
+
+#crimson {
+    background-color: crimson;
+    color: white;
+}
+
+#forestgreen {
+    background-color: forestgreen;
+    color: white;
+}
+
+#darkorchid {
+    background-color: darkorchid;
+    color: white;
+}
+
+#hotpink {
+    background-color: hotpink;
+    color: white;
+}
+
+#indigo {
+    background-color: indigo;
+    color: white;
+}
+
+#dodgerblue {
+    background-color: dodgerblue;
+    color: white;
+}
+
+.header-image #about-page {
+        object-fit: fill;
+ }
+
+.about-top {
+    border-bottom: 1px dotted black;
+    padding: 2%;
+    
+ }
+
+ .firstrow {
+     padding: 2% 0%;    
+     display: flex;
+     justify-content: space-between;
+     
+ }
+
+ .firstrow .strategy, .howWork {
+     width: 47%;         
+ }
+
+ .strategy {
+     border-bottom: 1px dotted black;
+     padding-bottom: 2%;
+ }
+
+ .howWork {
+    border-bottom: 1px dotted black;
+    padding-bottom: 2%;
+}
+
+ .secondrow {
+     padding: 2%;
+     display: flex;
+     justify-content: space-between;
+     
+ }
+
+ .secondrow .strategy, .howWork {
+     width: 47%; 
+ }
+
+.together {
+    padding: 2%;   
+}
+
+button {
+    font-size: 16px;
+    border-radius: 10px;
+    background-color: white;
+    border: 1px solid black;
+    padding: 2%;
+    font-size: .9em;
+}
+
+#padding {
+    padding: 3%;
+}
+
